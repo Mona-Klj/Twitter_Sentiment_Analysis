@@ -4,7 +4,7 @@ This repository contains some sentiment analysis projects on twitter data includ
 
 1- Data collecting through Twitter API.
 
-2- cleanin tweets .
+2- cleanin tweets.
 
 3- Analysing in Python. 
 
