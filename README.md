@@ -8,4 +8,4 @@ This repository contains some sentiment analysis projects on twitter data includ
 
 3- Analysing in Python. 
 
-4- Visualising the results.
+4- Visualising the results .
