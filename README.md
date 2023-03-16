@@ -6,6 +6,6 @@ This repository contains some sentiment analysis projects on twitter data includ
 
 2- cleanin tweets.
 
-3- Analysing in Python . 
+3- Analysing in Python. 
 
 4- Visualising the results .
