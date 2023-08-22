@@ -1,6 +1,6 @@
 ## Twitter_Sentiment_Analysis
 
-This repository contains some sentiment analysis projects on twitter data including collecting data cleaning tweets, analysing and visualizing results.
+This repository contains some sentiment analysis projects on Twitter data including collecting data cleaning tweets, analysing and visualizing results.
 
 1- Data collecting through Twitter API.
 
